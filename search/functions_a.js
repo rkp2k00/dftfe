@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['l2projectionquaddensityminusatomicdensity_0',['l2ProjectionQuadDensityMinusAtomicDensity',['../classdftfe_1_1dft_class.html#a0cad95ff0dfc571b65c961f298e7bbc2',1,'dftfe::dftClass']]],
+  ['l2projectionquadtonodal_1',['l2ProjectionQuadToNodal',['../classdftfe_1_1dft_class.html#aa8db3c424484949453484d347d5dba02',1,'dftfe::dftClass']]],
+  ['lanczoslowerupperboundeigenspectrum_2',['lanczosLowerUpperBoundEigenSpectrum',['../namespacedftfe_1_1linear_algebra_operations.html#a5638bd90ffbd68af3e6296cdca22e71f',1,'dftfe::linearAlgebraOperations']]],
+  ['linearsolver_3',['linearSolver',['../classdftfe_1_1linear_solver.html#a33487090706c6ea4df5b550843aa608d',1,'dftfe::linearSolver']]],
+  ['linesearch_4',['lineSearch',['../classdftfe_1_1cg_p_r_p_non_linear_solver.html#a20da76a8080aeaf04af92bf1cb83b5dd',1,'dftfe::cgPRPNonLinearSolver']]],
+  ['load_5',['load',['../classdftfe_1_1cg_p_r_p_non_linear_solver.html#ad8fbc76d611accc76c20c3901a8ccb52',1,'dftfe::cgPRPNonLinearSolver']]],
+  ['loadpsifiles_6',['loadPSIFiles',['../classdftfe_1_1dft_class.html#afdd097736b7eec47ff7781dae9441356',1,'dftfe::dftClass']]],
+  ['loadsupporttriangulations_7',['loadSupportTriangulations',['../classdftfe_1_1triangulation_manager.html#a1b009012cdf24dbc9234b8f4385ba9a3',1,'dftfe::triangulationManager']]],
+  ['loadtriainfoandrhodata_8',['loadTriaInfoAndRhoData',['../classdftfe_1_1dft_class.html#ada534072a63e7a43e773cb772bf5b663',1,'dftfe::dftClass']]],
+  ['loadtriainfoandrhonodaldata_9',['loadTriaInfoAndRhoNodalData',['../classdftfe_1_1dft_class.html#a8cb56e0c0eba246c362e3d105744b109',1,'dftfe::dftClass']]],
+  ['loadtriangulationscellquaddata_10',['loadTriangulationsCellQuadData',['../classdftfe_1_1triangulation_manager.html#a17a6461109e25857b169097f1dfd019e',1,'dftfe::triangulationManager']]],
+  ['loadtriangulationssolutionvectors_11',['loadTriangulationsSolutionVectors',['../classdftfe_1_1triangulation_manager.html#ac9e963fe42cbf3074894c4ad5a019867',1,'dftfe::triangulationManager']]],
+  ['local_5fel_12',['local_el',['../classdftfe_1_1_sca_l_a_p_a_c_k_matrix.html#a0b8c6ee8de8a5891548743f50325b48d',1,'dftfe::ScaLAPACKMatrix::local_el(const unsigned int loc_row, const unsigned int loc_column) const'],['../classdftfe_1_1_sca_l_a_p_a_c_k_matrix.html#a112944e3abfbe79f60b311a170a60de9',1,'dftfe::ScaLAPACKMatrix::local_el(const unsigned int loc_row, const unsigned int loc_column)']]],
+  ['local_5fm_13',['local_m',['../classdftfe_1_1_sca_l_a_p_a_c_k_matrix.html#a34aea7e92abd44b2a47142f2fa546671',1,'dftfe::ScaLAPACKMatrix']]],
+  ['local_5fn_14',['local_n',['../classdftfe_1_1_sca_l_a_p_a_c_k_matrix.html#a1022e93c172ae09f9f976f769435dc82',1,'dftfe::ScaLAPACKMatrix']]],
+  ['locallyowneddofssize_15',['locallyOwnedDofsSize',['../classdftfe_1_1_distributed_multicomponent_vec.html#aedfdf239c7e0d374a08d79da09caad78',1,'dftfe::DistributedMulticomponentVec']]],
+  ['locallyownedflattenedsize_16',['locallyOwnedFlattenedSize',['../classdftfe_1_1_distributed_multicomponent_vec.html#a16d137885c37e0dcd36fedff90c7316b',1,'dftfe::DistributedMulticomponentVec']]],
+  ['locateatomcorenodes_17',['locateAtomCoreNodes',['../classdftfe_1_1dft_class.html#acefa7c077932895aff31e12e3d3dd006',1,'dftfe::dftClass']]],
+  ['locateatomcorenodesforce_18',['locateAtomCoreNodesForce',['../classdftfe_1_1force_class.html#a5c75c8bcc54d5d4f8369d7711e26507b',1,'dftfe::forceClass']]],
+  ['locateatomsinbins_19',['locateAtomsInBins',['../classdftfe_1_1vself_bins_manager.html#a872f830ddc0d284b8194ef221e8ec1f3',1,'dftfe::vselfBinsManager']]],
+  ['locateperiodicpinnednodes_20',['locatePeriodicPinnedNodes',['../classdftfe_1_1dft_class.html#a3431ce30f145b4a8a5ec7d7a68cc0a91',1,'dftfe::dftClass']]],
+  ['lowdenorthogonalization_21',['lowdenOrthogonalization',['../namespacedftfe_1_1linear_algebra_operations.html#a0d770e7bb60b283319deb58a6bb0c58d',1,'dftfe::linearAlgebraOperations']]],
+  ['lworkfromwork_22',['lworkFromWork',['../namespacedftfe.html#a5a9de5077c14618313dfa884a65c59db',1,'dftfe::lworkFromWork(std::vector&lt; double &gt; &amp;work)'],['../namespacedftfe.html#a2bf7d4cacec598f188429ed1518475fb',1,'dftfe::lworkFromWork(std::vector&lt; float &gt; &amp;work)'],['../namespacedftfe.html#a402d4494c85423bbdf6676a14ed42562',1,'dftfe::lworkFromWork(std::vector&lt; std::complex&lt; double &gt; &gt; &amp;work)']]]
+];

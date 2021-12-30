@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['u_0',['U',['../namespacedftfe_1_1_l_a_p_a_c_k_support.html#a3442c760d6e88e14ba44ddf6e253a0fc',1,'dftfe::LAPACKSupport']]],
+  ['ubroyden_1',['uBroyden',['../classdftfe_1_1dft_class.html#ae5b93a8c0aefc576ddaac50b1158ce0f',1,'dftfe::dftClass']]],
+  ['uplo_2',['uplo',['../classdftfe_1_1_sca_l_a_p_a_c_k_matrix.html#ad47f6241046a290b56afe3015f68d562',1,'dftfe::ScaLAPACKMatrix']]],
+  ['useatomicrhoxlbomd_3',['useAtomicRhoXLBOMD',['../namespacedftfe_1_1dft_parameters.html#aeb63ddd79198c56bf3f241a993febe81',1,'dftfe::dftParameters']]],
+  ['usecubic_4',['UseCubic',['../structcg__com__struct.html#a8aa788a5d5c97fefa11ecd4b95b12a02',1,'cg_com_struct::UseCubic()'],['../structcg__parameter__struct.html#a6fb70ca7ce5c6c2f7ee884f85650d75f',1,'cg_parameter_struct::UseCubic()']]],
+  ['usedensitymatrixperturbationrankupdates_5',['useDensityMatrixPerturbationRankUpdates',['../namespacedftfe_1_1dft_parameters.html#abafa118ebce2caee310f26902b548a83',1,'dftfe::dftParameters']]],
+  ['useelpa_6',['useELPA',['../namespacedftfe_1_1dft_parameters.html#a7f58747474f485c64f6793550b0ddcb3',1,'dftfe::dftParameters']]],
+  ['useelpagpukernel_7',['useELPAGPUKernel',['../namespacedftfe_1_1dft_parameters.html#a272115221b8f6f3ab5a53b040d0aca99',1,'dftfe::dftParameters']]],
+  ['useflattopgenerator_8',['useFlatTopGenerator',['../namespacedftfe_1_1dft_parameters.html#adb98f25931bbaf8de75083dc2e6f7b33',1,'dftfe::dftParameters']]],
+  ['usegpu_9',['useGPU',['../namespacedftfe_1_1dft_parameters.html#a40721894583e6e3c589a5687b8e72733',1,'dftfe::dftParameters']]],
+  ['usegpudirectallreduce_10',['useGPUDirectAllReduce',['../namespacedftfe_1_1dft_parameters.html#a5811ba274ef1e3dad7186ed1c725eb7c',1,'dftfe::dftParameters']]],
+  ['usemeshsizesfromatomsfile_11',['useMeshSizesFromAtomsFile',['../namespacedftfe_1_1dft_parameters.html#aa36dcdd671fb3cf8b09c088cc74fa65c',1,'dftfe::dftParameters']]],
+  ['usemixedpreccgs_5fo_12',['useMixedPrecCGS_O',['../namespacedftfe_1_1dft_parameters.html#aaf58230e59c5d155c0a4d841e768f44c',1,'dftfe::dftParameters']]],
+  ['usemixedpreccgs_5fsr_13',['useMixedPrecCGS_SR',['../namespacedftfe_1_1dft_parameters.html#aea8caf1c9c7ede3402edd1ee12ad1436',1,'dftfe::dftParameters']]],
+  ['usemixedpreccheby_14',['useMixedPrecCheby',['../namespacedftfe_1_1dft_parameters.html#a4709454ee314715801c9abe2def8a908',1,'dftfe::dftParameters']]],
+  ['usemixedprecsubspacerotrr_15',['useMixedPrecSubspaceRotRR',['../namespacedftfe_1_1dft_parameters.html#adaa5ba04d6ae96ab175927b1eb46c60f',1,'dftfe::dftParameters']]],
+  ['usemixedprecxthxspectrumsplit_16',['useMixedPrecXTHXSpectrumSplit',['../namespacedftfe_1_1dft_parameters.html#a87b8f0d35e69e5bb6d332015b2b2957f',1,'dftfe::dftParameters']]],
+  ['usesymm_17',['useSymm',['../namespacedftfe_1_1dft_parameters.html#a87d3c90c6a7deaec4e6a21e2bcfb2d03',1,'dftfe::dftParameters']]]
+];
